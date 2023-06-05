@@ -36,9 +36,7 @@ export default function NewMemory() {
       if (result.assets[0]) {
         setPreview(result.assets[0].uri)
       }
-    } catch (err) {
-      // deu erro mas eu não tratei
-    }
+    } catch (err) {}
   }
 
   async function handleCreateMemory() {
