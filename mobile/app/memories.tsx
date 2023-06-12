@@ -13,6 +13,7 @@ import { api } from '../src/lib/api'
 dayjs.locale(ptBR)
 
 // texts app .
+// https://github.com/emersonslima
 
 interface Memory {
   coverUrl: string
