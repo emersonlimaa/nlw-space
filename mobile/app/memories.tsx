@@ -12,6 +12,8 @@ import { api } from '../src/lib/api'
 
 dayjs.locale(ptBR)
 
+// texts app .
+
 interface Memory {
   coverUrl: string
   excerpt: string
