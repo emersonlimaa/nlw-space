@@ -12,9 +12,6 @@ import { api } from '../src/lib/api'
 
 dayjs.locale(ptBR)
 
-// texts app .
-// https://github.com/emersonslima
-// atualizar a aplicacao
 
 interface Memory {
   coverUrl: string
